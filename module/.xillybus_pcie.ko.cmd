@@ -1,0 +1,1 @@
+cmd_/home/zwq/下载/xillybus/module/xillybus_pcie.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-144-generic/scripts/module-common.lds --build-id  -o /home/zwq/下载/xillybus/module/xillybus_pcie.ko /home/zwq/下载/xillybus/module/xillybus_pcie.o /home/zwq/下载/xillybus/module/xillybus_pcie.mod.o

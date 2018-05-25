@@ -1,0 +1,5 @@
+0x68af8991	xillybus_endpoint_discovery	/home/zwq/下载/xillybus/module/xillybus_core	EXPORT_SYMBOL
+0x11c5a4d4	xillybus_init_endpoint	/home/zwq/下载/xillybus/module/xillybus_core	EXPORT_SYMBOL
+0xbef84af4	xillybus_endpoint_remove	/home/zwq/下载/xillybus/module/xillybus_core	EXPORT_SYMBOL
+0x25978d50	xillybus_isr	/home/zwq/下载/xillybus/module/xillybus_core	EXPORT_SYMBOL
+0x37f365ab	xillybus_do_cleanup	/home/zwq/下载/xillybus/module/xillybus_core	EXPORT_SYMBOL

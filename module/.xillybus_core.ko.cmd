@@ -1,0 +1,1 @@
+cmd_/home/zwq/下载/xillybus/module/xillybus_core.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-144-generic/scripts/module-common.lds --build-id  -o /home/zwq/下载/xillybus/module/xillybus_core.ko /home/zwq/下载/xillybus/module/xillybus_core.o /home/zwq/下载/xillybus/module/xillybus_core.mod.o
